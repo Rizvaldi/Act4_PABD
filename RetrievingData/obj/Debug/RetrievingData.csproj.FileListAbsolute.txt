@@ -1,0 +1,10 @@
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.exe.config
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.exe
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\bin\Debug\RetrievingData.pdb
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.AssemblyReference.cache
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.Form1.resources
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.Properties.Resources.resources
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.GenerateResource.cache
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.CoreCompileInputs.cache
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.exe
+C:\Users\62813\source\repos\RetrievingData\RetrievingData\obj\Debug\RetrievingData.pdb
